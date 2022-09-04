@@ -1,1 +1,2 @@
 # Airport-Statistics
+This C++ program searches through a United States airports dataset of over 100,000 tuples. The user can search by airport code and get information regarding the delays in that specific airport. This program also compares runtime and efficiency of different sorting algorithms such as radix and shell sort. To run this program open it in an IDE and also download the dataset. Correct the file path in the program and then run.
